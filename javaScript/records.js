@@ -55,7 +55,6 @@ var records = [
         genre: "Pop",
         condition: "NM"
     },
-
 ];
 
 for (var key in records) {
