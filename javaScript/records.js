@@ -56,4 +56,8 @@ var records = [
         condition: "NM"
     },
 
-]
+];
+
+for (var key in records) {
+    console.log(records[key]);
+}
